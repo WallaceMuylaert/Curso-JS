@@ -1,0 +1,33 @@
+body{
+    background: rgb(107, 14, 194);
+    font: normal 15pt Ariel;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.288);
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+div#msg2{
+    color: rgb(0, 0, 0);
+    font: normal 18pt Ariel;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    
+}
